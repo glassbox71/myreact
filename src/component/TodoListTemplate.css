@@ -1,0 +1,12 @@
+.todoWrap{
+    width:500px;
+    background: white;
+    margin:50px auto;
+    border-radius: 20px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.15);
+    padding:10px 30px;
+}
+.title{
+    text-align: center;
+    color:#555;
+}
